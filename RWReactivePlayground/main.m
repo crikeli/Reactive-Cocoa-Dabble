@@ -1,9 +1,9 @@
 //
 //  main.m
-//  RWReactivePlayground
+//  Reactive Cocoa Example
 //
-//  Created by Colin Eberhardt on 18/12/2013.
-//  Copyright (c) 2013 Colin Eberhardt. All rights reserved.
+//  Created by Kelin Christi on 21/02/2016.
+//  Copyright (c) 2016 Kelz. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
