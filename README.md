@@ -1,5 +1,5 @@
 # Reactive-Cocoa-Dabble
-Learning the ReactiveCocoa framework. 
+A well commented and documented example for anyone trying to learn the ReactiveCocoa framework. 
 
 1.) Navigate to the project directory.
 
